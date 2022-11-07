@@ -1,0 +1,15 @@
+C:\Users\Jhon delas\Documents\curso\trilha-poo\bin\Debug\net6.0\trilha-poo.exe
+C:\Users\Jhon delas\Documents\curso\trilha-poo\bin\Debug\net6.0\trilha-poo.deps.json
+C:\Users\Jhon delas\Documents\curso\trilha-poo\bin\Debug\net6.0\trilha-poo.runtimeconfig.json
+C:\Users\Jhon delas\Documents\curso\trilha-poo\bin\Debug\net6.0\trilha-poo.dll
+C:\Users\Jhon delas\Documents\curso\trilha-poo\bin\Debug\net6.0\trilha-poo.pdb
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.csproj.AssemblyReference.cache
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.AssemblyInfoInputs.cache
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.AssemblyInfo.cs
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.csproj.CoreCompileInputs.cache
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.dll
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\refint\trilha-poo.dll
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.pdb
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\trilha-poo.genruntimeconfig.cache
+C:\Users\Jhon delas\Documents\curso\trilha-poo\obj\Debug\net6.0\ref\trilha-poo.dll
